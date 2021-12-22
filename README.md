@@ -2,4 +2,4 @@
 
 ## Desafio Git
 
-Assinando commit conforme desafio proposto.
+Assinando commit conforme desafio proposto!
